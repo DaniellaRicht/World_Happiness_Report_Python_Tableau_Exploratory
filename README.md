@@ -16,7 +16,11 @@ The World Happiness Report datasets are relevant for various reasons. They provi
 # Data Limitations
 There are several limitations to consider when using the World Happiness Report datasets. Firstly, happiness is a subjective measure influenced by cultural, societal, and individual differences, which may not be fully captured in the data. Data accuracy may be affected by the survey based nature of the data collection process. Bias could potentially be introduced, as not all countries may have comprehensive data available for all factors included in the report. Lastly, the time comprehensive data available for all factors included in the report. Lastly, the time frame of the data is limited, as the most recent report is a fiframe of the data is limited, as the most recent report is five years old.
 
-Key Questions:
+# Key Questions:
+- Are there any countries that are consistently ranking high or low in happiness over the multi ple years?
+- What is the relationship between GDP growth rate and changes in happiness scores over time?
+- Does access to healthcare services and infrastructure impact a country's happiness?
+- Is there a relationship between educational attainment levels and happiness scores across different nations?across different nations?
 
 # Data Analysis
  - Sourcing the right data
@@ -29,6 +33,6 @@ Key Questions:
  - Create a data dashboard communicating research findings and insights in Tableau
 
 # Presenting the analysis in a Tableau dashboard:
-
+[Tableau]([https://pages.github.com/](https://public.tableau.com/app/profile/daniella.richt/viz/World_Happiness_Report_Analysis/WorldHappinessReport?publish=yes))
 <img width="990" alt="Screenshot 2024-04-30 at 16 30 00" src="https://github.com/DaniellaRicht/World_Happiness_Report_Python_Tableau_Exploratory/assets/167680390/e1546933-eded-4b0f-b6f8-4043b36f0d6d">
 
