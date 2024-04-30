@@ -33,7 +33,7 @@ There are several limitations to consider when using the World Happiness Report 
  - Create a data dashboard communicating research findings and insights in Tableau
 
 # Presenting the analysis in a Tableau dashboard:
-[Tableau]([https://pages.github.com/](https://public.tableau.com/app/profile/daniella.richt/viz/World_Happiness_Report_Analysis/WorldHappinessReport?publish=yes))
+Tableau: https://public.tableau.com/app/profile/daniella.richt/viz/World_Happiness_Report_Analysis/WorldHappinessReport?publish=yes
 
 <img width="990" alt="Screenshot 2024-04-30 at 16 30 00" src="https://github.com/DaniellaRicht/World_Happiness_Report_Python_Tableau_Exploratory/assets/167680390/e1546933-eded-4b0f-b6f8-4043b36f0d6d">
 
